@@ -1,5 +1,7 @@
 public class TMJavaDay2 {
     public static void main(String[] args) {
+
+        //write a program to print name, age, college, and city.
         String name = "Rahul Chaudhary";
         int age = 20;
         String college = "IIMT College of Engineering";
